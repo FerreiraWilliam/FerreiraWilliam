@@ -8,7 +8,7 @@ Este repositório surgiu a partir de experimentos e aprendizados focados em:
 
 - 📊 Criação de **Dashboards dinâmicos no Power BI**
 - 📁 Automatização de **caminhos de diretório dinâmicos com base no usuário** usando M (Power Query)
-- 🧮 Adaptação de **fórmulas complexas do Excel (como `SE`, `PROCX`, `MÉDIASES`) para DAX**
+- 🧮 Adaptação de **fórmulas complexas do Excel para DAX**
 - 🧩 Manipulação e transformação de dados usando **SQL**
 - 🐍 Scripts em **Python** para tratamento de dados, automação de tarefas e apoio ao BI
 
